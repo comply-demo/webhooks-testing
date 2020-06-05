@@ -1,2 +1,2 @@
 # webhooks-testing
-Repo for testing github webhooks.
+Repository for testing github webhooks.
